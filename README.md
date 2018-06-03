@@ -9,5 +9,9 @@ In similarity_sentence_document.ipynb we first gonna split document into sentenc
 <h3>Difference betwwen matrix we used here and in imdb sentiment project</h3>
 In imdb model we first found out words and their frequency and alloted them no as how frequent they are like no 1 is most frquent word.Then we convert each sentence into matrix of shape 1Xn where n is no of words in sentence and value is how frequent that word is in the document and then later in embedding we made matrix with one hot encoding means total no of columns =total no of words all over and value =1 at positions where columns = values of how frequent those words(present in document) are. 
 
-<h3>3.TextRank approach fro text summarization </h3>
+<h3>3.TextRank approach for text summarization (Graph base approach)</h3>
 <href>https://wordpress.com/post/datasciencebasicsblog.wordpress.com/1034 </href>
+
+<h3>4.Feature Base approach for text summarization </h3>
+Give this approach a look at <href>https://datasciencebasicsblog.wordpress.com/2018/06/02/text-summarization-approaches/ </href>
+Reference for implementation : <href> https://github.com/xiaoxu193/PyTeaser </href>
