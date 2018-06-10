@@ -24,5 +24,7 @@ In imdb model we first found out words and their frequency and alloted them no a
 Give this approach a look at <href>https://datasciencebasicsblog.wordpress.com/2018/06/02/text-summarization-approaches/ </href>
 Reference for implementation : <href> https://github.com/xiaoxu193/PyTeaser </href>
 
-<h3>Topic Modeling </h3>
+<h3>5.Topic Modeling by LDA approach</h3>
+Code implementation : LDA_Topic_Modeling.ipynb
+
 See here <href>https://datasciencebasicsblog.wordpress.com/topic-modeling-with-python/  </href>
