@@ -23,3 +23,6 @@ In imdb model we first found out words and their frequency and alloted them no a
 <h3>4.Feature Base approach for text summarization </h3>
 Give this approach a look at <href>https://datasciencebasicsblog.wordpress.com/2018/06/02/text-summarization-approaches/ </href>
 Reference for implementation : <href> https://github.com/xiaoxu193/PyTeaser </href>
+
+<h3>Topic Modeling </h3>
+See here <href>https://datasciencebasicsblog.wordpress.com/topic-modeling-with-python/  </href>
