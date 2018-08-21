@@ -28,3 +28,8 @@ Reference for implementation : <href> https://github.com/xiaoxu193/PyTeaser </hr
 Code implementation : LDA_Topic_Modeling.ipynb
 
 See here <href>https://datasciencebasicsblog.wordpress.com/topic-modeling-with-python/  </href>
+<h3>6.Language Model using RNN </h3>
+To know about language model and RNN and its implementation steps go to :<br>
+<href>https://datasciencebasicsblog.wordpress.com/2018/03/03/nlp-recurrent-neural-networks-and-language-models/<href>
+<href>https://datasciencebasicsblog.wordpress.com/2018/08/20/making-a-language-model-using-python/</href>
+
